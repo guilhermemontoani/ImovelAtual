@@ -12,7 +12,7 @@
             Relaçao dos corretores cadastrados
             <div class="pull-right">
                 <a href="#" class="btn btn-info"><i class="fas fa-fx fa-sync-alt"></i> Atualizar a tela</a>
-                <a href="#" class="btn btn-success"><i class="fas fa-fx fa-plus"></i> Incluir novo registro</a>
+                <a href="{{ route('corretores.create') }}" class="btn btn-success"><i class="fas fa-fx fa-plus"></i> Incluir novo registro</a>
             </div>
         </div>
 

@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'title' => 'ImovelTTE',
+    'title' => 'ImovelCerto',
 
     'title_prefix' => '[',
 
